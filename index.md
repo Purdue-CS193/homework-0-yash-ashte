@@ -1,4 +1,7 @@
-# Welcome to Yash Ashtekar's GitHub
+# Yash Ashtekar's First CS193 Homework
+- I like the humour
+- The small number of people
+- The Instructors are good:)
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
